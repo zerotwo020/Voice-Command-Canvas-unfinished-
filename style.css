@@ -1,0 +1,14 @@
+body
+{
+	text-align: center;
+}
+span
+{
+	font-size: 18px;
+	color: black;
+}
+canvas
+{
+	background: gainsboro;
+	border-radius: 20px;
+}
